@@ -29,28 +29,3 @@ void loop() {
   timeStampVal = timeStampVal + play_time;
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-// Serial.print(now.year(), DEC);
-    // Serial.print('/');
-    // Serial.print(now.month(), DEC);
-    // Serial.print('/');
-    // Serial.print(now.day(), DEC);
-    // Serial.print(" (");
-    // Serial.print(") ");
-    // Serial.print(now.hour(), DEC);
-    // Serial.print(':');
-    // Serial.print(now.minute(), DEC);
-    // Serial.print(':');
-    // Serial.print(now.second(), DEC);
-    // Serial.println();
